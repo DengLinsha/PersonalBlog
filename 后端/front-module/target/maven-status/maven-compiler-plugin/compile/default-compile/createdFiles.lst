@@ -1,0 +1,4 @@
+com\dls\controller\BlogLoginController.class
+com\dls\controller\CategoryController.class
+com\dls\controller\LinkController.class
+com\dls\config\SecurityConfig.class
